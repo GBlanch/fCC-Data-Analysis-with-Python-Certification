@@ -13,7 +13,7 @@ For example, `calculate([0,1,2,3,4,5,6,7,8])` should return:
 ![image](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/assets/136500426/e0b883ee-def7-4325-bfa3-1261b59c936a)
 
 
-The unit tests for this project are in `test_module.py`.
+The unit tests for this project are in [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/0.mvsd.calc/test_module.py).
 
 ### Development
 For development, you can use main.py to test your `calculate()` function. Click the "run" button and `main.py` will run.
