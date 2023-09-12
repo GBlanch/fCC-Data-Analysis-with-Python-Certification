@@ -1,4 +1,4 @@
-Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
+Create a function named `calculate()` in [`mean_var_std.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/0.mvsd.calc/mean_var_std.py) that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
 The input of the function should be a list containing 9 digits. The function should convert the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min, and sum along both axes and for the flattened matrix.
 
@@ -13,7 +13,7 @@ For example, `calculate([0,1,2,3,4,5,6,7,8])` should return:
 ![image](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/assets/136500426/e0b883ee-def7-4325-bfa3-1261b59c936a)
 
 
-The unit tests for this project are in `test_module.py`.
+The unit tests for this project are in [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/0.mvsd.calc/test_module.py).
 
 ### Development
 For development, you can use main.py to test your `calculate()` function. Click the "run" button and `main.py` will run.
