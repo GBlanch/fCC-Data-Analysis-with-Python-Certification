@@ -1,4 +1,3 @@
-https://www.freecodecamp.org/learn/data-analysis-with-python/
 
 Projects:
   - **[Mean-Variance-Standard Deviation Calculator](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/0.mvsd.calc)**
@@ -6,3 +5,5 @@ Projects:
   - Medical Data Visualizer
   - Page View Time Series Visualizer
   - Sea Level Predictor
+
+Source :  https://www.freecodecamp.org/learn/data-analysis-with-python/
