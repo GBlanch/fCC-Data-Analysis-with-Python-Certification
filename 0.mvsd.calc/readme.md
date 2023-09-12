@@ -24,4 +24,4 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
 
-Source : **(https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)**
+Source : **https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator**
