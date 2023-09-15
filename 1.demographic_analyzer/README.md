@@ -29,7 +29,7 @@ Unit tests are written for you under test_module.py.
 For development, you can use main.py to test your functions.
 
 ### Testing
-We imported the tests from [`test_module.py`] to [`main.py`] for your convenience. 
+We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/1.demographic_analyzer/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/1.demographic_analyzer/main.py) for your convenience. 
 
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
