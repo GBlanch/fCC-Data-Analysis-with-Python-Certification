@@ -1,3 +1,5 @@
+## Demographic Data Analyzer
+
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
@@ -23,16 +25,17 @@ Use the starter code in the file demographic_data_analyzer. Update the code so a
 
 Unit tests are written for you under test_module.py.
 
-Development
-For development, you can use main.py to test your functions. Click the "run" button and main.py will run.
+### Development
+For development, you can use main.py to test your functions.
 
-Testing
-We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
+### Testing
+We imported the tests from [`test_module.py`] to [`main.py`] for your convenience. 
 
-Submitting
+### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
 
-Dataset Source
+### Dataset Source
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
 
+Original website : **https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer**
 
