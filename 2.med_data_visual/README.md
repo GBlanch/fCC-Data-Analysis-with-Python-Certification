@@ -5,7 +5,7 @@ In this project, you will visualize and make calculations from medical examinati
 ### Data description
 The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices. You will use the dataset to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
 
-File name: medical_examination.csv
+File name: [`medical_examination.csv`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/medical_examination.csv)
 
 ![image](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/assets/136500426/9d647c45-8777-44c5-8f96-be59152e23a0)
 
