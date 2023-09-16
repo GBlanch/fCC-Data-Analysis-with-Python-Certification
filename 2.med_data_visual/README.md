@@ -12,7 +12,7 @@ File name: [`medical_examination.csv`](https://github.com/GBlanch/fCC-Data-Analy
 ### Tasks
 Create a chart similar to [`examples/Figure_1.png`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/examples/Figure_1.png), where we show the counts of good and bad outcomes for the `cholesterol, gluc, alco, active, and smoke` variables for patients with cardio=1 and cardio=0 in different panels.
 
-Use the data to complete the following tasks in [`medical_data_visualizer.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/medical_data_visualizer.py):
+Use the data to complete the following tasks in `medical_data_visualizer.py`.
 
 + Add an `overweight` column to the data. To determine if a person is overweight, first calculate their BMI by dividing their weight in kilograms by the square of their height in meters. If that value is > 25 then the person is overweight. Use the value 0 for NOT overweight and the value 1 for overweight.
 + Normalize the data by making 0 always good and 1 always bad. If the value of `cholesterol` or `gluc` is 1, make the value 0. If the value is more than 1, make the value 1.
@@ -30,10 +30,10 @@ Any time a variable is set to `None`, make sure to set it to the correct code.
 Unit tests are written for you under test_module.py.
 
 ### Development
-For development, you can use main.py to test your functions. 
+For development, you can use main.py to test your functions in [`medical_data_visualizer.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/py%20files/medical_data_visualizer.py). 
 
 ### Testing
-We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/main.py) for your convenience.
+We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/py%20files/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/2.med_data_visual/py%20files/main.py) for your convenience.
 
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
