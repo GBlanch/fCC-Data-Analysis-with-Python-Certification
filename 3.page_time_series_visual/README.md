@@ -21,7 +21,7 @@ For development, you can use `main.py` to test your functions in the python file
 
 ### Testing
 
-We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/3.time_series_visual/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/3.page_time_series_visual/py%20files/main.py) for your convenience.
+We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/3.page_time_series_visual/py%20files/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/3.page_time_series_visual/py%20files/main.py) for your convenience.
 
 ### Submitting
 
