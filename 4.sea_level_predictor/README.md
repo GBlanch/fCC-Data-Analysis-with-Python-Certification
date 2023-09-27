@@ -16,11 +16,11 @@ The boilerplate also includes commands to save and return the image.
 
 ### Development
 
-For development, you can use main.py to test your functions to elaaborate your code in the file [`sea_level_predictor`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/sea_level_predictor.py). Click the "run" button and main.py will run.
+For development, you can use main.py to test your functions to elaaborate your code in the file [`sea_level_predictor`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/sea_level_predictor.py). 
 
 ### Testing
 
-We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/main.py) for your convenience. The tests will run automatically whenever you hit the "run" button.
+We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/main.py) for your convenience.
 
 ### Submitting
 
