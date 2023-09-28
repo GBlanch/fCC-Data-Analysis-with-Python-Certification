@@ -19,7 +19,7 @@ The unit tests for this project are in [`test_module.py`](https://github.com/GBl
 For development, you can use [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/0.mvsd.calc/py%20files/main.py) to test your `calculate()` function. 
 
 ### Testing
-We imported the tests from `test_module.py` to `main.py` for your convenience. 
+Refer to section [how to test these projects](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main#how-to-test-this-projects)
 
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
