@@ -29,7 +29,7 @@ Unit tests are written for you under test_module.py.
 For development, you can use main.py to test your functions in [`demographic_data_analyzer.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/1.demographic_analyzer/py%20files/demographic_data_analyzer.py).
 
 ### Testing
-We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/1.demographic_analyzer/py%20files/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/1.demographic_analyzer/py%20files/main.py) for your convenience. 
+Refer to section [how to test these projects](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main#how-to-test-this-projects)
 
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
