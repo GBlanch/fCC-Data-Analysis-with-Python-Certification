@@ -6,7 +6,7 @@
   - **[Page View Time Series Visualizer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/3.page_time_series_visual)**
   - **[Sea Level Predictor](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/README.md)**
 
-### How to test this projects:
+### How to test these projects:
 
   1. For each project, download the py files (x3) in their respective `py files` folders and also the csv files.
   2. Save them all in the same directory/folder.
