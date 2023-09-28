@@ -20,7 +20,7 @@ For development, you can use main.py to test your functions to elaaborate your c
 
 ### Testing
 
-We imported the tests from [`test_module.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/test_module.py) to [`main.py`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/main.py) for your convenience.
+Refer to section [how to test these projects](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main#how-to-test-this-projects)
 
 ### Submitting
 
