@@ -10,13 +10,13 @@ Use the data to complete the following tasks:
 + Plot a new line of best fit just using the data from year 2000 through the most recent year in the dataset. Make the line also go through the year 2050 to predict the sea level rise in 2050 if the rate of rise continues as it has since the year 2000.
 + The x label should be `Year`, the y label should be `Sea Level (inches)`, and the title should be `Rise in Sea Level.`
 
-Unit tests are written for you under `test_module.py.`
+Unit tests are written for you under [`test_module.py.`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/py%20files/test_module.py)
 
 The boilerplate also includes commands to save and return the image.
 
 ### Development
 
-For development, you can use main.py to test your functions to elaaborate your code in the file [`sea_level_predictor`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/sea_level_predictor.py). 
+For development, you can use main.py to test your functions to elaaborate your code in the file [`sea_level_predictor`](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/py%20files/sea_level_predictor.py). 
 
 ### Testing
 
