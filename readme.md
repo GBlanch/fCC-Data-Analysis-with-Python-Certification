@@ -8,7 +8,7 @@
 
 ### How to test these:
 
-  1. For each project, download the py files (x3) in their respective `py files` folders and also the csv files.
+  1. For each project, download the `py files` (x3) in their respective py files folders and also the csv files.
   2. Save them all in the same directory/folder.
-  3. Open a terminal in Visual Studio (or any other integrated developement environment) and run the `main.py file` ("python main.py")
+  3. Open a terminal in Visual Studio (or any other integrated developement environment) and run the `main.py` file ("python main.py")
   
