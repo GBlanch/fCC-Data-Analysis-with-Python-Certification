@@ -1,6 +1,6 @@
 ## Summary
 
-Good foundational hands-on knowledge of [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+Good foundational hands-on knowledge of Data Analysis from the course [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 
 ### Projects:
