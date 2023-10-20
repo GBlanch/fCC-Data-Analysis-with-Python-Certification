@@ -1,3 +1,7 @@
+
+Good foundational hands-on knowledge of [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+
+
 ### Projects:
 
   - **[Mean-Variance-Standard Deviation Calculator](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/0.mvsd.calc)**
