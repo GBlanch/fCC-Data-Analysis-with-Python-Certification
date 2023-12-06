@@ -15,5 +15,5 @@ Good foundational hands-on knowledge of Data Analysis from the course [freeCodeC
 
   1. For each project, download the `py files` (x3) in their respective py files folders and also the csv files.
   2. Save them all in the same directory/folder.
-  3. Open a terminal in Visual Studio (or any other integrated developement environment) and run the `main.py` file ("python main.py")
+  3. Open a terminal in VS Code - or any other IDE - and run the `main.py` file ("python main.py")
   
