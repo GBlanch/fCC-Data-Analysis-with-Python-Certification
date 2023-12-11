@@ -5,7 +5,7 @@ Good foundational hands-on knowledge of Data Analysis from the course [freeCodeC
 
 ## Projects:
 
-  - **[Mean-Variance-Standard Deviation Calculator](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/0.mvsd.calc)**
+  - **[Mean-Variance-Standard Deviation Calculator](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/0.mvsd_calc)**
   - **[Demographic Data Analyzer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/1.demographic_analyzer)**
   - **[Medical Data Visualizer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/2.med_data_visual)**
   - **[Page View Time Series Visualizer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/3.page_time_series_visual)**
