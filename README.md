@@ -9,7 +9,7 @@ Good foundational hands-on knowledge of Data Analysis from the course [freeCodeC
   - **[Demographic Data Analyzer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/1.demographic_analyzer)**
   - **[Medical Data Visualizer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/2.med_data_visual)**
   - **[Page View Time Series Visualizer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/3.page_time_series_visual)**
-  - **[Sea Level Predictor](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor/README.md)**
+  - **[Sea Level Predictor](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor)**
 
 ## How to test these:
 
