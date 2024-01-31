@@ -1,6 +1,6 @@
 ## Summary
 
-Good foundational hands-on knowledge of Data Analysis from the course [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+In this course, I learnt the fundamentals of Data Analysis with Python. From loading and cleaning flat files with Pandas to performing mathematical operations and statistical analysis with Numpy, I also created diverse visualizations using Matplotlib and Seaborn. Note that instead of using Replit, I developed, debugged and validated the python modules for each problem using VS Code in my local machine.
 
 
 ## Problems:
