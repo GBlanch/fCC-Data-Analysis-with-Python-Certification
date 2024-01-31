@@ -4,6 +4,7 @@ In this course, I learnt the fundamentals of Data Analysis with Python. From loa
 
 
 ## Problems:
+<br>
 
   - ### [Mean-Variance-Standard Deviation Calculator](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/0.mvsd_calc)
   - ### [Demographic Data Analyzer](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/tree/main/1.demographic_analyzer)
@@ -12,6 +13,7 @@ In this course, I learnt the fundamentals of Data Analysis with Python. From loa
   - ### [Sea Level Predictor](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/4.sea_level_predictor)
 
 ## How to test these:
+<br>
 
   1. For each project, download the `py files` (x3) from their respective py files folders and also the csv files when these exist.
   2. Save them all in the same directory/folder.
