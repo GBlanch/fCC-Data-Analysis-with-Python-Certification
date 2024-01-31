@@ -19,6 +19,6 @@ Good foundational hands-on knowledge of Data Analysis from the course [freeCodeC
   
 
 
-[Data Analysis Developer Certification](https://raw.githubusercontent.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/main/DA_Developer_certification.png)
+![Data Analysis Developer Certification](https://raw.githubusercontent.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/main/DA_Developer_certification.png)
 
 [Verify this certification](https://www.freecodecamp.org/certification/GBlanch/data-analysis-with-python-v7)
