@@ -17,3 +17,8 @@ Good foundational hands-on knowledge of Data Analysis from the course [freeCodeC
   2. Save them all in the same directory/folder.
   3. Open a terminal in VS Code - or any other IDE - and run the `main.py` file ("python main.py")
   
+
+
+[Data Analysis Developer Certification](https://raw.githubusercontent.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/main/DA_Developer_certification.png)
+
+[Verify this certification](https://www.freecodecamp.org/certification/GBlanch/data-analysis-with-python-v7)
