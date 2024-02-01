@@ -2,7 +2,8 @@
 
 In this course, I learnt the fundamentals of Data Analysis with Python. From loading and cleaning flat files with Pandas to performing mathematical operations and statistical analysis with Numpy, I also created diverse visualizations using Matplotlib and Seaborn. 
 
-Note that instead of using Replit, I **developed, debugged and validated the python modules** for each problem using VS Code **in my local machine**.
+### Note:
+Instead of using Replit, I **developed, debugged and validated the python modules** for each problem using VS Code **in my local machine**.
 
 <br>
 
