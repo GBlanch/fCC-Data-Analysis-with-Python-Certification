@@ -26,7 +26,7 @@ Instead of using Replit, I **developed, debugged and validated the python module
   
 <br>
 
-## Proof of completion
+## Developer certification
 
 ![Data Analysis Developer Certification](https://raw.githubusercontent.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/main/DA_Developer_certification.png)
 
