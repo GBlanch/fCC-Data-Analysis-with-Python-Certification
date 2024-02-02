@@ -1,3 +1,5 @@
+# freeCodeCamp Data Analysis with Python
+
 ## Summary
 
 In this course, I learnt the fundamentals of Data Analysis with Python. From loading and cleaning flat files with Pandas to performing mathematical operations and statistical analysis with Numpy, I also created diverse visualizations using Matplotlib and Seaborn. 
